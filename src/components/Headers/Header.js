@@ -30,10 +30,11 @@ const Header = () => {
             {/* Card stats */}
             <Row>
             <img
-          src={
-                require("../../assets/img/theme/smallworld2.png")
+              src={
+                require("../../assets/img/theme/smallworld4.jpg")
                   .default
               }
+              border="0" width="2000" height="400" class="right"
                         />
             </Row>
           </div>
